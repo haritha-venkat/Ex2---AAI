@@ -1,7 +1,7 @@
-<H3>Enter Name</H3>
-<H3>Enter Register No.</H3>
+<H3>Enter Name: HARITHA SHREE.V</H3>
+<H3>Enter Register No.: 212222230046</H3>
 <H3>Experiment 2</H3>
-<H3>Date</H3>
+<H3>Date:11.04.2025</H3>
 <h1 align =center>Implementation of Exact Inference Method of Bayesian Network</h1>
 
 ## Aim:
